@@ -1,0 +1,16 @@
+/home/husarion/rosbot_ws/install/rosbot_run/lib/rosbot_run/my_first
+/home/husarion/rosbot_ws/install/rosbot_run/share/ament_index/resource_index/package_run_dependencies/rosbot_run
+/home/husarion/rosbot_ws/install/rosbot_run/share/ament_index/resource_index/parent_prefix_path/rosbot_run
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/environment/ament_prefix_path.sh
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/environment/ament_prefix_path.dsv
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/environment/path.sh
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/environment/path.dsv
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/local_setup.bash
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/local_setup.sh
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/local_setup.zsh
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/local_setup.dsv
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/package.dsv
+/home/husarion/rosbot_ws/install/rosbot_run/share/ament_index/resource_index/packages/rosbot_run
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/cmake/rosbot_runConfig.cmake
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/cmake/rosbot_runConfig-version.cmake
+/home/husarion/rosbot_ws/install/rosbot_run/share/rosbot_run/package.xml

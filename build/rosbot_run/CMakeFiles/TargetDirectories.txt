@@ -1,0 +1,10 @@
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/uninstall.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/rosbot_run_uninstall.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/my_first.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/test.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/edit_cache.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/rebuild_cache.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/list_install_components.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/install.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/install/local.dir
+/home/husarion/rosbot_ws/build/rosbot_run/CMakeFiles/install/strip.dir
