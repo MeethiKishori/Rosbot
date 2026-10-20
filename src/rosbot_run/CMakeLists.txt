@@ -13,9 +13,10 @@ endif()
 # find dependencies
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
+find_package(sensor_msgs REQUIRED)
 
 add_executable(my_first src/my_first.cpp)
-ament_target_dependencies(my_first rclcpp)
+ament_target_dependencies(my_first rclcpp sensor_msgs)
 
 install(TARGETS
   my_first
